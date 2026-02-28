@@ -8,8 +8,7 @@ It helps you:
 • Work in teams
 • Avoid overwriting each other’s work
 • Fix mistakes
-
-Manage hackathon pressure safely
+• Manage hackathon pressure safely
 
 
 
