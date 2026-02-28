@@ -4,7 +4,7 @@
 🔹 What is Git?                                                          
 Git is a Version Control System.                             
 It helps you:                             
-• Track code changes
+• Track code changes                             
 • Work in teams                             
 • Avoid overwriting each other’s work                             
 • Fix mistakes                             
