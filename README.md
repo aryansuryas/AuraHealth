@@ -1,14 +1,14 @@
 # AuraHealth
 📘 GIT – Proper Neat Copy Notes (With Comments & Explanation
 
-🔹 What is Git?
-Git is a Version Control System.
-It helps you:
+🔹 What is Git?                                                          
+Git is a Version Control System.                             
+It helps you:                             
 • Track code changes
-• Work in teams
-• Avoid overwriting each other’s work
-• Fix mistakes
-• Manage hackathon pressure safely
+• Work in teams                             
+• Avoid overwriting each other’s work                             
+• Fix mistakes                             
+• Manage hackathon pressure safely                             
 
 
 
