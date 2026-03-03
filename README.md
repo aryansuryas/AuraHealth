@@ -133,8 +133,6 @@ Undo last local change	git checkout .
  └── README.md        (Project description)
 
 Keep project organized → Judges like clean structure.
-
-
 ---
 
 ⚠️ IMPORTANT SECURITY WARNING
@@ -143,7 +141,7 @@ You shared:
 
 MongoDB password
 
-Connection string
+Connection strin
 
 GitHub repo details
 
@@ -152,12 +150,11 @@ GitHub repo details
 
 Database passwords
 
-API keys
+API key's 
 
 MongoDB URIs
 
 GitHub tokens
-
 
 Instead, use .env file:
 
