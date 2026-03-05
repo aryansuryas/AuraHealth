@@ -19,7 +19,7 @@ It helps you:
 # 1. Initialize Git in your project folder
 git init
 # Creates a new local Git repository
-
+gfi
 # 2. Connect your local project to GitHub repository
 git remote add origin https://github.com/username/repository.git
 # Links your folder to online GitHub repo
