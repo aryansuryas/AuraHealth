@@ -17,7 +17,7 @@ It helps you:
 🚀 PHASE 1: First Time Setup (Initialize Project)
 
 # 1. Initialize Git in your project folder
-git init
+git initv
 # Creates a new local Git repository
 gfi
 # 2. Connect your local project to GitHub repository
