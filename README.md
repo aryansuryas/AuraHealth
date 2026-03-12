@@ -1,4 +1,4 @@
-# AuraHealth -Smart Reception Management 
+# AuraHealth -Smart Reception Management System
 📘 GIT – Proper Neat Copy Notes (With Comments & Explanation
 
 🔹 What is Git?                                                          
