@@ -1,6 +1,7 @@
 # AuraHealth -Smart Reception Management 
 
-# Frontend 
+# Frontend    
+HTML5 , CSS3, React
 # Backend
 # Database
 # Version Control
