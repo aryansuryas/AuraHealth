@@ -2,5 +2,5 @@
 
 # Frontend 
 # Backend
-#D atabase
-# 
+# Database
+# Version Control
